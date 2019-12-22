@@ -1,0 +1,43 @@
+file data/FDHRCOneRecord.xml
+number of records 1
+
+first record id 265
+first record title General practitioners' use of computers for prescribing and electronic health records: results from a national survey
+first record year 2006
+first record numAuthors 3
+first record abstract This is an example abstract. one two two three three three three.
+
+sort by id id 265
+sort by id title General practitioners' use of computers for prescribing and electronic health records: results from a national survey
+sort by id year 2006
+sort by id numAuthors 3
+sort by id abstract This is an example abstract. one two two three three three three.
+
+sort by year id 265
+sort by year title General practitioners' use of computers for prescribing and electronic health records: results from a national survey
+sort by year year 2006
+sort by year numAuthors 3
+sort by year abstract This is an example abstract. one two two three three three three.
+
+sort by type id 265
+sort by type title General practitioners' use of computers for prescribing and electronic health records: results from a national survey
+sort by type year 2006
+sort by type numAuthors 3
+sort by type abstract This is an example abstract. one two two three three three three.
+
+sort by number of authors id 265
+sort by number of authors title General practitioners' use of computers for prescribing and electronic health records: results from a national survey
+sort by number of authors year 2006
+sort by number of authors numAuthors 3
+sort by number of authors abstract This is an example abstract. one two two three three three three.
+
+indexed word, occurrence counts, no. associated records, [ associated record ids ]
+three, 3, 1, [ 265 ]
+two, 2, 1, [ 265 ]
+three., 1, 1, [ 265 ]
+one, 1, 1, [ 265 ]
+abstract., 1, 1, [ 265 ]
+This, 1, 1, [ 265 ]
+is, 1, 1, [ 265 ]
+an, 1, 1, [ 265 ]
+example, 1, 1, [ 265 ]

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?><xml>
+    <records>
+        <record>
+            <database name="170223 EHRRepo.enl" path="V:\EHR Repository\EHR Repository\10 website\2 EHR launch files\170223 EHRRepo.enl">170223 EHRRepo.enl</database>
+            <source-app name="EndNote" version="18.0">EndNote</source-app>
+            <rec-number>265</rec-number>
+            <foreign-keys>
+                <key app="EN" db-id="9sr55spr0wtepued50dpepp4vstpxfzpa5fx">265</key>
+            </foreign-keys>
+            <ref-type name="Journal Article">17</ref-type>
+            <contributors>
+                <authors>
+                    <author>
+                        <style face="normal" font="default" size="100%">McInnes, D. K.</style>
+                    </author>
+                    <author>
+                        <style face="normal" font="default" size="100%"> Saltman, D. C.</style>
+                    </author>
+                    <author>
+                        <style face="normal" font="default" size="100%"> Kidd, M. R.</style>
+                    </author>
+                </authors>
+            </contributors>
+            <auth-address>
+                <style face="normal" font="default" size="100%">Harvard Univ, Sch Med, Dept Hlth Care Policy, Boston, MA 02115 USA; Univ Sydney, Discipline Gen Practice, Sydney, NSW 2006, Australia</style>
+            </auth-address>
+            <titles>
+                <title>
+                    <style face="normal" font="default" size="100%">General practitioners&apos; use of computers for prescribing and electronic health records: results from a national survey</style>
+                </title>
+                <secondary-title>
+                    <style face="normal" font="default" size="100%">Medical Journal of Australia</style>
+                </secondary-title>
+                <alt-title>
+                    <style face="normal" font="default" size="100%">Med J Australia</style>
+                </alt-title>
+            </title>
+            <periodical>
+                <full-title>
+                    <style face="normal" font="default" size="100%">Medical Journal of Australia</style>
+                </full-title>
+                <abbr-1>
+                    <style face="normal" font="default" size="100%">Med J Australia</style>
+                </abbr-1>
+            </periodical>
+            <alt-periodical>
+                <full-title>
+                    <style face="normal" font="default" size="100%">Medical Journal of Australia</style>
+                </full-title>
+                <abbr-1>
+                    <style face="normal" font="default" size="100%">Med J Australia</style>
+                </abbr-1>
+            </alt-periodical>
+            <pages>
+                <style face="normal" font="default" size="100%">88-91</style>
+            </pages>
+            <volume>
+                <style face="normal" font="default" size="100%">185</style>
+            </volume>
+            <number>
+                <style face="normal" font="default" size="100%">2</style>
+            </number>
+            <keywords>
+                <keyword>
+                    <style face="normal" font="default" size="100%">systems</style>
+                </keyword>
+                <keyword>
+                    <style face="normal" font="default" size="100%">events</style>
+                </keyword>
+            </keywords>
+            <dates>
+                <year>
+                    <style face="normal" font="default" size="100%">2006</style>
+                </year>
+                <pub-dates>
+                    <date>
+                        <style face="normal" font="default" size="100%">Jul 17</style>
+                    </date>
+                </pub-dates>
+            </dates>
+            <isbn>
+                <style face="normal" font="default" size="100%">0025-729x</style>
+            </isbn>
+            <accession-num>
+                <style face="normal" font="default" size="100%">WOS:000239731000011</style>
+            </accession-num>
+            <abstract>
+                <style face="normal" font="default" size="100%">This is an example abstract. one two two three three three three.</style>
+            </abstract>
+            <notes>
+                <style face="normal" font="default" size="100%">073gm; Times Cited:65; Cited References Count:22</style>
+            </notes>
+            <urls>
+                <related-urls>
+                    <url>
+                        <style face="normal" font="default" size="100%">&lt;Go to ISI&gt;://WOS:000239731000011</style>
+                    </url>
+                </related-urls>
+                <pdf-urls>
+                    <url>internal-pdf://2693519566/Mcinnes Saltman.pdf</url>
+                    <url>internal-pdf://0407230795/mci10476_fm.pdf</url>
+                </pdf-urls>
+            </urls>
+            <custom1>
+                <style face="normal" font="default" size="100%"> EHR website Jan 2017</style>
+            </custom1>
+            <custom3>
+                <style face="normal" font="default" size="100%">Cat 1 Google search</style>
+            </custom3>
+            <custom5>
+                <style face="normal" font="default" size="100%">cleaned 161213</style>
+            </custom5>
+            <custom7>
+                <style face="normal" font="default" size="100%">Official selection</style>
+            </custom7>
+            <language>
+                <style face="normal" font="default" size="100%">English</style>
+            </language>
+        </record>
+    </records>
+</xml>
